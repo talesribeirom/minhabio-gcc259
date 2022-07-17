@@ -1,6 +1,7 @@
 # Sobre Mim
+![avatar](./assets/avatar.png)
 
-Me chamo Tales, sou estudante de Ciência da Computação na Universidade Federal de Lavras	
+Me chamo Tales, sou estudante de Ciência da Computação na Universidade Federal de Lavras    
 > Explorando tecnologias e aprendendo sobre o mundo...
 ## *Contatos*
 *Email*: [talesribeiro.m](mailto:talesribeiro.m@gmail.com)
